@@ -1,5 +1,5 @@
 # Yugi Card Search
-Sistema simples em Javascript para pesquisa e visualização de cartas de Yu-Gi-OH
+Tecnologias: JavaScript, HTML e CSS. Consome uma API pública de cartas de Yu-Gi-Oh!
 
 Integrantes:
 - Lucas Meireles Cecilia
