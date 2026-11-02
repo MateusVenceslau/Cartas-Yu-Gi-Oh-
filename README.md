@@ -1,5 +1,4 @@
 # Yugi Card Search
-Tecnologias: JavaScript, HTML e CSS. Consome uma API pública de cartas de Yu-Gi-Oh!
 
 Integrantes:
 - Lucas Meireles Cecilia
@@ -7,3 +6,5 @@ Integrantes:
 - Mateus Venceslau
 - Marco Vinicius
 - Vitor Jorge
+
+Tecnologias: JavaScript, HTML e CSS. Consome uma API pública de cartas de Yu-Gi-Oh!
